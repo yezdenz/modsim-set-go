@@ -22,4 +22,6 @@ When the user asks for code images beneath results, follow Tables.MD. When the u
 
 Do not silently classify an assessment as AI-Assisted if the source says AI-Integrated. Surface that conflict and request the user's course-specific resolution while continuing unrelated work. Follow any applicable limits on AI assistance; do not help conceal material AI contribution.
 
+When an AI declaration is required, include the official form link from Declaration.MD in the handoff. The user fills out, reviews, and signs it. Do not automatically fill or submit it; provide drafting or field-filling help only when explicitly requested, leaving the user's attestations and signature to them.
+
 Return the requested files and a brief factual handoff. Identify remaining student-only or inaccessible requirements without pretending the work is fully ready.

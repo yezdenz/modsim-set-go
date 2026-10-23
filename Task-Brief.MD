@@ -27,6 +27,8 @@ Copy this sheet to a private workspace before entering personal information. Do 
 | Caption preference | No repeated Code used captions unless requested |
 | AI classification and policy source | |
 | Declaration destination and format | Separate unless requested otherwise |
+| Official AI declaration form | https://feutech.acm.org/ai_declaration_form/ |
+| Declaration completion | User fills out, reviews, and signs; drafting help only when explicitly requested |
 | Assigned AI learning code | |
 | Assigned prompt parameters | |
 | Conversation evidence requirement | |

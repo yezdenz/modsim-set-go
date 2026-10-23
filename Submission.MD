@@ -12,6 +12,7 @@ Hand over the latest verified files in the user's requested format. A link to an
 - Requested captions were removed and no unwanted AI disclosure or extra report sections were added.
 - The actual final document was visually reviewed, including page breaks, code/result pairs, and the final EV section.
 - Any declaration accurately records the AI contribution and does not claim unsupported signatures, attachments, or student verification.
+- When an AI declaration is required, the handoff includes the [official form](https://feutech.acm.org/ai_declaration_form/) and states that the user fills out, reviews, and signs it. Any unfinished user declaration step remains pending.
 - The requested file types and naming are respected. Private QA renders and build files are excluded.
 
 Use a package only when requested or useful within the authorized scope. If the script changes after a ZIP is created, update the ZIP or explicitly retire the old package. Reopen the final package and compare its script and document with the latest approved files.

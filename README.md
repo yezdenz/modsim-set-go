@@ -14,6 +14,10 @@ Give the agent your assessment, rubric, exact template, and any existing script.
 
 Add your preferences using [Task-Brief.MD](Task-Brief.MD). The brief is a blank reusable form; fill your actual copy privately.
 
+## AI declaration form
+
+Use the official [FEU Tech AI Use Declaration Form](https://feutech.acm.org/ai_declaration_form/) when required for your assessment. **The user fills out, reviews, and signs the form.** The agent provides the link and an accurate summary of AI assistance; drafting or field-filling help is provided only when explicitly requested. Follow [Declaration.MD](Declaration.MD) for the details and keep completed declarations private.
+
 ## Workflow map
 
 | Stage | Guide | What it controls |
@@ -29,7 +33,7 @@ Add your preferences using [Task-Brief.MD](Task-Brief.MD). The brief is a blank 
 | Images and captures | [Screenshot.MD](Screenshot.MD) | Genuine screenshots versus rendered captures, light backgrounds, and readable sizing |
 | Evidence register | [Evidence.MD](Evidence.MD) | Trace each result to code, a run, and its location in the final document |
 | Verification | [Validation.MD](Validation.MD) | Model checks, actual execution, numerical agreement, and final file review |
-| AI declaration | [Declaration.MD](Declaration.MD) | Accurate AI contribution, real prompts, separate forms, and personal attestations |
+| AI declaration | [Declaration.MD](Declaration.MD) | Official form link, user-completed declaration, accurate AI contribution, and real prompts |
 | Supplied checklists | [Checklist.MD](Checklist.MD) | Preserve original wording and check only verified items |
 | Final handoff | [Submission.MD](Submission.MD) | Correct latest files, package contents, privacy, and pending requirements |
 
@@ -40,7 +44,7 @@ Add your preferences using [Task-Brief.MD](Task-Brief.MD). The brief is a blank 
 3. Define and implement the mathematical model, then run it in MATLAB.
 4. Verify the results and prepare the required terminal output and evidence.
 5. Fill a direct copy of the designated template and add the requested table rows.
-6. Complete a separate declaration only when requested, using an accurate record of AI use.
+6. Give the user the official declaration form and accurate AI-use records when required. The user fills out, reviews, and signs it; assist with a draft only when explicitly asked.
 7. Render and inspect every page, reconcile all artifacts, and hand over the latest files.
 
 Read back only the decisions that matter. Do not repeatedly ask permission for ordinary steps already authorized. Ask for missing facts, genuine access limits, or user-only decisions when they become necessary.
